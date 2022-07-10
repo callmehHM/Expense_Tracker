@@ -2,4 +2,4 @@
  *Created by Himanshu Mittal @IITGUWAHATI.*
 
 
-![My Image](Demo_Expense_Tracker.jpg)
+![Demo]('./Demo_Expense_Tracker.jpg')
